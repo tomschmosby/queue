@@ -2,7 +2,7 @@
   <div>
   <b-card
     title="Cam 1"
-    img-src="https://i.ytimg.com/vi/oZB9PNdgMeM/maxresdefault.jpg"
+    img-src="robot-character.jpg"
     img-alt="Image"
     img-top
     tag="article"
