@@ -1,3 +1,5 @@
+import queue from './components/queue.vue'
+
 <template>
   <div>
   <b-card
